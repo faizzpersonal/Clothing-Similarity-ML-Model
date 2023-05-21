@@ -5,11 +5,6 @@ This project aims to provide a clothing similarity search function using machine
 
 **Using_USE.py & Using_BERT Are Direct Program That Run(On Compiler) After Installing The Necessary Python Packages **
 
- Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
 
 ## Project Structure
 
