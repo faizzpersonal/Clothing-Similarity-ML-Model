@@ -3,6 +3,7 @@
 
 This project aims to provide a clothing similarity search function using machine learning techniques. Given a text description of a clothing item, the function returns a ranked list of similar items with their links.
 
+**Using_USE.py & Using_BERT Are Direct Program That Run(On Compiler) After Installing The Necessary Python Packages **
 
  Tech Stack
 
